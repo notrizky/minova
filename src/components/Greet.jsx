@@ -40,7 +40,7 @@ const Greet = () => {
             </h1>
             
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                aloo cemaaa, may your day is filled with happiness and bliss. 
+                haloo cemaaa, may your day is filled with happiness and bliss. 
             </p>
 
 

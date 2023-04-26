@@ -7,6 +7,7 @@ const Cardmac = () => (
 
     <div class="w-full h-full shadow-2xl subpixel-antialiased rounded bg-black border-black mx-auto block overflow-hidden
     transition-transform group-hover:-translate-x-2 group-hover:-translate-y-2 border-2">
+    
 
       <div class="flex items-center h-6 rounded-t bg-gray-100 border-b border-gray-500 text-center text-black" id="headerTerminal">
         <div class="flex ml-2 items-center text-center border-red-900 bg-red-500 shadow-inner rounded-full w-3 h-3" id="closebtn">
